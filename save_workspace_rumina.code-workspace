@@ -4,8 +4,9 @@
 			"path": "."
 		},
 		{
-			"path": "../Obsidian/obsidian_first"
+			"path": "../Obsidian/rumina"
 		}
 	],
-	"settings": {}
+	"settings": {
+	}
 }
