@@ -1,9 +1,11 @@
 {
 	"folders": [
 		{
+			"name": "Cursor_1_rumina",
 			"path": "."
 		},
 		{
+			"name": "rumina",
 			"path": "../Obsidian/rumina"
 		}
 	],
